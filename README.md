@@ -11,4 +11,4 @@ Empezamos conectando de forma inalmábrica (WiFi) su invernadero con el aula de 
 conectado a los arduinos diferentes sensores para medir y enviar datos de temperatura, humedad, luz, etc. Y de esta forma, cambiar su sistema de cultivo,
 instalando un sistema de riego por control remoto.
 Realizamos una documentación, investigando desde el principio y sin conocimientos previos, sobre como instalar, conectar y configurar los dispositivos de tal forma que
-se recogiesen los datos y se almaceran en una base de datos en el aula del centro.
+se recogiesen los datos y se almacenaran en una base de datos en el aula del centro.
