@@ -5,7 +5,7 @@ TFG del grado superior de Desarrollo de Aplicaciones Web realizado junto a Victo
 en colaboración con IES La Granja de Heras.
 
 El trabajo consistía en domitizar un invernadero en un par de años.
-Nosotros fuimos los primeros en empezar con el proyecto, yendo por primera vez al IES La Granja y discutiendo con los profesores encargados, como haríamos el proyecyo.
+Nosotros fuimos los primeros en empezar con el proyecto, yendo por primera vez al IES La Granja y discutiendo con los profesores encargados, como haríamos el proyecto.
 
 Empezamos conectando de forma inalmábrica (WiFi) su invernadero con el aula de Ganadería del propio centro, situados entre si a aproximadamente 450 metros de distancia,
 conectado a los arduinos diferentes sensores para medir y enviar datos de temperatura, humedad, luz, etc. Y de esta forma, cambiar su sistema de cultivo,
