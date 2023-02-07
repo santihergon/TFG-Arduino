@@ -1,0 +1,6 @@
+Estos son los archivos que funcionan correctamente. Su función es la siguiente:
+
+Conexión arduino emisor/receptor con arduino receptor/emisor.
+Sube loradata a la base de datos y waterSensor.
+
+Corrige el fallo de waterSensor, ahora el sensor está conectado al emisor.

@@ -1,0 +1,6 @@
+Estos archivos se encargan de leer los datos de los sensores de temperatura, luz y agua.
+
+Los mostramos en el Monitor Serie y se los manda al receptor usando LoRaMessage 
+para que después los suba a la API haciendo un POST usando pruebaarduino.php
+
+
